@@ -9,6 +9,15 @@ using UnityEngine;
 
 
     public PlayerStats Stats => stats;
-
+    private PlayerAnimations animations;
+    private void Awake()
+    {
+        animations = GetComponent<PlayerAnimations>();
+    }
+    public void ResetPlayer()
+    {
+        stats.ResetPlayer();
+        animations.ResetPlayer();
+    }
 
  }
