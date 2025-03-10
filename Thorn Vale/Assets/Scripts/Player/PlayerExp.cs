@@ -14,14 +14,13 @@ public class PlayerExp : MonoBehaviour
             AddExp(300f);
         }
     }
-
-
     public void AddExp(float amount)
     {
         stats.CurrentExp += amount;
         while (stats.CurrentExp >= stats.NextLevelExp)
         {
             stats.CurrentExp -= stats.NextLevelExp;
+            NextLevel();
         }
     }
 
