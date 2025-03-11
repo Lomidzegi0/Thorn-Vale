@@ -626,7 +626,7 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeIntensityEnabled: 0
-  m_ApplyToSortingLayers: 000000002929583305c6c1aee39dbbc09331997e
+  m_ApplyToSortingLayers: 000000002929583305c6c1ae
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
@@ -1543,7 +1543,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 861415721
-  m_SortingLayer: 3
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -1546907172, guid: 494c81e87368b1a428001c754d973e49, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1970,9 +1970,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stats: {fileID: 11400000, guid: ac4c1e4f9c328d947928120d2a383e58, type: 2}
-  healthBar: {fileID: 1207652726}
-  manaBar: {fileID: 149202731}
-  expBar: {fileID: 865134929}
+  healthBar: {fileID: 20014202}
+  manaBar: {fileID: 759254053}
+  expBar: {fileID: 60408733}
   levelTMP: {fileID: 1367184784}
   healthTMP: {fileID: 649467099}
   manaTMP: {fileID: 1619644084}
