@@ -9,3 +9,5 @@ Update5
 Spells Update
 Update6
 Crafting 
+Update7
+NPC Update
