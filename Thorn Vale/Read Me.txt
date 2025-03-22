@@ -5,3 +5,7 @@ Update3
 System Update
 Update4
 Enemy Update
+Update5
+Spells Update
+Update6
+Crafting 
