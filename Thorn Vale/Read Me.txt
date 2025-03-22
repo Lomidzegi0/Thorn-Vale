@@ -11,3 +11,5 @@ Update6
 Crafting 
 Update7
 NPC Update
+Update8
+Player Update
