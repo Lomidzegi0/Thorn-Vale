@@ -11,3 +11,7 @@ elementals
 Giant
 zombie
 skeleton
+Evil Wizards
+Robbers
+Bandits
+Evil Merchantts
