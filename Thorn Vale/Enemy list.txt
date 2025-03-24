@@ -19,3 +19,4 @@ Mimics
 Ghosts
 Evi Unicorns
 Slime
+Constructs
