@@ -22,3 +22,4 @@ Slime
 Constructs
 Frogs
 Dire wolfs
+Spirits
