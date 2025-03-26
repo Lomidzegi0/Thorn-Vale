@@ -27,4 +27,4 @@ Worms
 Displacer
 Dragon
 Observer
-
+Bugbear
