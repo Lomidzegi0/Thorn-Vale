@@ -25,4 +25,6 @@ Dire wolfs
 Spirits
 Worms
 Displacer
+Dragon
+Observer
 
